@@ -1,0 +1,109 @@
+{
+"main_cat": [
+  {
+    "channels": "Faith-based channels information",
+    "color": "#F0ECE3",
+    "id": 9,
+    "name": "Religious",
+    "pic": "religious"
+  },
+  {
+    "channels": "Afghanistan channels information",
+    "color": "#FFE6CA",
+    "id": 15,
+    "name": "Afghanistan",
+    "pic": "afghanistan"
+  },
+  {
+    "channels": "Satellite channels service information",
+    "color": "#92D6DF",
+    "id": 2,
+    "name": "Satellite",
+    "pic": "satellite"
+  },
+  {
+    "channels": "IRIB channels information",
+    "color": "#E8ABBC",
+    "id": 1,
+    "name": "IRIB",
+    "pic": "IRIB"
+  },
+  {
+    "channels": "Sports channels information",
+    "color": "#EDD2F3",
+    "id": 11,
+    "name": "Sport",
+    "pic": "sport"
+  },
+  {
+    "channels": "Kurdish channels information",
+    "color": "#FEFFDE",
+    "id": 14,
+    "name": "kurdish",
+    "pic": "kurdish"
+  },
+  {
+    "channels": "Music channels information",
+    "color": "#E69393",
+    "id": 5,
+    "name": "Music",
+    "pic": "music"
+  },
+  {
+    "channels": "Arabic channels information",
+    "color": "#76BA99",
+    "id": 13,
+    "name": "Arabic",
+    "pic": "arabic"
+  },
+  {
+    "channels": "Documentary Channels information",
+    "color": "#F4E06D",
+    "id": 8,
+    "name": "Documentary",
+    "pic": "document"
+  },
+  {
+    "channels": "News channels information",
+    "color": "#C0E891",
+    "id": 6,
+    "name": "News",
+    "pic": "news"
+  },
+  {
+    "channels": "Persian provincial channels information",
+    "color": "#BEA4EC",
+    "id": 3,
+    "name": "Iran Provinces IRIB",
+    "pic": "ostani"
+  },
+  {
+    "channels": "Kids and teens channels information",
+    "color": "#FFDCA7",
+    "id": 4,
+    "name": "Cartoon",
+    "pic": "cartoon"
+  },
+  {
+    "channels": "Turkish channels information",
+    "color": "#CDF0EA",
+    "id": 12,
+    "name": "Turkish",
+    "pic": "turkish"
+  },
+  {
+    "channels": "Movie channels information",
+    "color": "#FFC3C3",
+    "id": 10,
+    "name": "Movie",
+    "pic": "movie"
+  },
+  {
+    "channels": "Entertainment channels information",
+    "color": "#B5EAEA",
+    "id": 7,
+    "name": "Gem",
+    "pic": "gem"
+  }
+]
+}
